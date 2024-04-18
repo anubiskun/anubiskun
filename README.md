@@ -16,7 +16,7 @@
   <br/>
   <br/>
     <a href="#">
-      <img height=150 src="https://github-profile-trophy.vercel.app/?username=anubiskun&theme=onedark" />
+      <img src="https://github-profile-trophy.vercel.app/?username=anubiskun&theme=radical&row=1&column=9&no-frame=true" />
     </a>
   <br/>
   <br/>
